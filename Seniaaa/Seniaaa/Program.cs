@@ -38,6 +38,7 @@ namespace Seniaaa
             //Console.Write(" = {0}", factorial);
             //Console.ReadKey();
             //return 0;
+            Console.WriteLine(5);
         }
     }
 }
