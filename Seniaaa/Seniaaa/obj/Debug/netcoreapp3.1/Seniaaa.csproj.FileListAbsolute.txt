@@ -1,0 +1,13 @@
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\bin\Debug\netcoreapp3.1\Seniaaa.exe
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\bin\Debug\netcoreapp3.1\Seniaaa.deps.json
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\bin\Debug\netcoreapp3.1\Seniaaa.runtimeconfig.json
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\bin\Debug\netcoreapp3.1\Seniaaa.runtimeconfig.dev.json
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\bin\Debug\netcoreapp3.1\Seniaaa.dll
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\bin\Debug\netcoreapp3.1\Seniaaa.pdb
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\obj\Debug\netcoreapp3.1\Seniaaa.csprojAssemblyReference.cache
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\obj\Debug\netcoreapp3.1\Seniaaa.AssemblyInfoInputs.cache
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\obj\Debug\netcoreapp3.1\Seniaaa.AssemblyInfo.cs
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\obj\Debug\netcoreapp3.1\Seniaaa.csproj.CoreCompileInputs.cache
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\obj\Debug\netcoreapp3.1\Seniaaa.dll
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\obj\Debug\netcoreapp3.1\Seniaaa.pdb
+C:\Users\senia\Desktop\Репозиторий\try-3\Seniaaa\Seniaaa\obj\Debug\netcoreapp3.1\Seniaaa.genruntimeconfig.cache

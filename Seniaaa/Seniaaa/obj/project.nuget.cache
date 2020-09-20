@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VpN5RM0yU8HoLDFOloD5WKl49KelCq4zVZ8dni+4gNCvY5sSCn2QOOx2g7s78uPhlEMQrfqn67JuiFIFOWXfcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\senia\\Desktop\\Репозиторий\\try-3\\Seniaaa\\Seniaaa\\Seniaaa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\senia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
