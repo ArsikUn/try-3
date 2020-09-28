@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+5F1DxK+SvvD3D/0P/xi735VgDUA0Nk5Vqni1Qn29leUu5NcACF5jHuoW4S2QBQBGcEKOArgq4qUaj/PQsgKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\senia\\Desktop\\Репозиторий\\try-3\\пока будет так задание 2\\пока будет так задание 2\\пока будет так задание 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\senia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
