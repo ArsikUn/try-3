@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\senia\\Desktop\\Репозиторий\\try-3\\пока будет так задание 2\\пока будет так задание 2\\пока будет так задание 2.csproj",
+      "projectUniqueName": "C:\\Users\\senia\\Desktop\\Репозиторий\\try-3\\second popitka\\пока будет так задание 2\\пока будет так задание 2.csproj",
       "projectName": "пока будет так задание 2",
-      "projectPath": "C:\\Users\\senia\\Desktop\\Репозиторий\\try-3\\пока будет так задание 2\\пока будет так задание 2\\пока будет так задание 2.csproj",
+      "projectPath": "C:\\Users\\senia\\Desktop\\Репозиторий\\try-3\\second popitka\\пока будет так задание 2\\пока будет так задание 2.csproj",
       "packagesPath": "C:\\Users\\senia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\senia\\Desktop\\Репозиторий\\try-3\\пока будет так задание 2\\пока будет так задание 2\\obj\\",
+      "outputPath": "C:\\Users\\senia\\Desktop\\Репозиторий\\try-3\\second popitka\\пока будет так задание 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
