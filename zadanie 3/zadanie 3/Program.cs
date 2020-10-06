@@ -8,26 +8,7 @@ using Microsoft.Win32.SafeHandles;
 
 namespace zadanie_3
 {
-    static void first_task()
-    {
-    Foo();
-    Console.WriteLine($"Create objects: {A.count}");
-    }
 
-    public static void Foo()
-    {
-    A someobjects = new A();
-    A anyobjects = new A();
-    A anybjects = new A();
-    }
-    class A
-    {
-        public static int count;
-        public A()
-        {
-            count++;
-        }
-    }
     class Safer<TM, TB, TD>
     {
         private readonly TM student;
@@ -47,7 +28,6 @@ namespace zadanie_3
             static void second_task()
             {
                 Safer<object, object, object> safer = new Safer<object, object, object>(false,25,"Morron");
-                safer.View();
             }
 
         }
