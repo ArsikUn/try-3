@@ -8,7 +8,26 @@ using Microsoft.Win32.SafeHandles;
 
 namespace zadanie_3
 {
+    static void main()
+    {
+    Foo();
+    Console.WriteLine($"Create objects: {A.count}");
+    }
 
+    public static void Foo()
+    {
+    A someobjects = new A();
+    A anyobjects = new A();
+    A anybjects = new A();
+    }
+    class A
+    {
+        public static int count;
+        public A()
+        {
+            count++;
+        }
+    }
     class Safer<TM, TB, TD>
     {
         private readonly TM student;
