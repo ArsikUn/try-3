@@ -34,7 +34,7 @@ namespace ConsoleApplication6
 
         void Task1()
         {
-
+            problems
         }
 
         public static void Main()
