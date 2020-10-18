@@ -1,0 +1,13 @@
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\bin\Debug\netcoreapp3.1\full_and_all.exe
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\bin\Debug\netcoreapp3.1\full_and_all.deps.json
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\bin\Debug\netcoreapp3.1\full_and_all.runtimeconfig.json
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\bin\Debug\netcoreapp3.1\full_and_all.runtimeconfig.dev.json
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\bin\Debug\netcoreapp3.1\full_and_all.dll
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\bin\Debug\netcoreapp3.1\full_and_all.pdb
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\obj\Debug\netcoreapp3.1\full_and_all.csprojAssemblyReference.cache
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\obj\Debug\netcoreapp3.1\full_and_all.AssemblyInfoInputs.cache
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\obj\Debug\netcoreapp3.1\full_and_all.AssemblyInfo.cs
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\obj\Debug\netcoreapp3.1\full_and_all.csproj.CoreCompileInputs.cache
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\obj\Debug\netcoreapp3.1\full_and_all.dll
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\obj\Debug\netcoreapp3.1\full_and_all.pdb
+C:\Users\senia\Desktop\Репозиторий\try-3\full_and_all\full_and_all\obj\Debug\netcoreapp3.1\full_and_all.genruntimeconfig.cache
