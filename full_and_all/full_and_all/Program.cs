@@ -13,7 +13,7 @@ namespace ConsoleApplication6
             for (int i = 0; i < points.Length; i++)
                 Console.WriteLine("{0} {1}", points[i], i == choose ? "<<--" : "");
         }
-
+        
         public static int Menu(string[] points)
         {
             Console.CursorVisible = false; // Чтобы не было мигающего курсора.
@@ -32,10 +32,7 @@ namespace ConsoleApplication6
             }
         }
 
-        void Task1()
-        {
-            Console.WriteLine(7);
-        }
+
         public static void Main()
         {
             string[] points = { "1) Task №1", "2) Task №2", "3) Task №3", "4)EXIT" };
