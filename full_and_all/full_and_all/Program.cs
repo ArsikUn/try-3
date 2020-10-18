@@ -32,6 +32,10 @@ namespace ConsoleApplication6
             }
         }
 
+        void Task1()
+        {
+
+        }
 
         public static void Main()
         {
